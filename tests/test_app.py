@@ -1,4 +1,4 @@
-from app.app import apppipy
+from app.app import app
 
 def test_home():
     client = app.test_client()
